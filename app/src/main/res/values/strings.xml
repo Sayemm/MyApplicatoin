@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="labelFirstName">First Name</string>
+    <string name="labelLastName">Last Name</string>
+    <string name="labelPassword">Password</string>
+    <string name="labelConfirmPassword">Confirm Password</string>
+    <string name="labelEmail">Email</string>
+
+    <string name="required">Can\'t be less than 8 Characters</string>
+</resources>
